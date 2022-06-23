@@ -1,0 +1,3 @@
+stroka 
+stroka slovo
+stroka slovo slovo

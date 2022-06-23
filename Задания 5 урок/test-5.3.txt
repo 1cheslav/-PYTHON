@@ -1,0 +1,5 @@
+Ivanov 15000
+Petrov 22000
+Vasechkin 23000
+Sidorov 11000
+Sedov 10000
